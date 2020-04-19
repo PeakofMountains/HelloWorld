@@ -1,37 +1,43 @@
 ## Welcome to  Hello-world Pages
 
-You can use the [editor on GitHub](https://github.com/fangsijian/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [fork on GitHub](https://fangsijian.github.io/) to see my projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the first time I use Markdown to edit my file.
 
-### Markdown
+I think I will __do better__ in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+This is a block and item list.
 
-# Header 1
-## Header 2
-### Header 3
+> * This is a **Bold** test.  
+> * This is an _Italic_ test.  
+> * This is a `Code` test.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+This is a test of sheet.
 
-**Bold** and _Italic_ and `Code` text
+|  表头   |  表头  |
+| ----    |  ---- |
+| 单元格  | 单元格  |
+| 单元格  | 单元格  |  
 
-[Link](url) and ![Image](src)
+
+This is a C program test(Hello world嘻嘻).
+
+```C  
+include <stdio>
+void main(){
+  printf("Hello World!");
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## There is a beautiful wallpaper for you:
 
-### Jekyll Themes
+![Image](https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png "WallPaper")  
+### You can get it by click this [Link](https://w.wallhaven.cc/full/96/wallhaven-96w8e8.png).  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fangsijian/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ok, that is all I have done for the first page.  
+
+## Thank you!
